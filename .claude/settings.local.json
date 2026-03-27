@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /home/jacksandy/claude_workstation remote -v)",
+      "Bash(git -C /home/jacksandy/claude_workstation log --oneline -1)"
+    ]
+  }
+}
